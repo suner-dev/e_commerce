@@ -1,6 +1,6 @@
-import { Book } from './book'
-import { Author } from './author'
-import { Library } from './library'
+import { Book } from './book.js'
+import { Author } from './author.js'
+import { Library } from './library.js'
 
 const author = new Author(
   'John Doe',
